@@ -1,0 +1,24 @@
+#submit_button {
+margin-top: 20px;
+margin-bottom: 20px;
+background-color: blue;
+color: chartreuse;
+font-weight: bold;
+}
+
+#sort_button {
+    display: none;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    background-color: darkcyan;
+    color: yellow;
+    font-style: italic;
+}
+
+input {
+margin: 10px;
+}
+
+body {
+    background-color:orangered;
+}
